@@ -1,0 +1,34 @@
+html {
+  font-size: 20px;
+}
+
+body {
+  color: #eee;
+  background-color: #000;
+  background-image: url(crossfit-enkoping-boxen-8-optimized.jpg);
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: sans-serif;
+  text-align: center;
+  height: 100vh;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+
+header {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.logotype {
+  max-width: 90vw;
+  width: 300px;
+}
+
+main {
+  margin: 0 auto;
+  width: 600px;
+  max-width: 90vw;
+}
